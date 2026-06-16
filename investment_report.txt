@@ -1,0 +1,14 @@
+Stock Portfolio Tracker Report
+
+Project: Stock portfolio Tracker
+
+Features:
+-  Add stocks
+- Track portfolio details
+- View investment information
+
+Status:
+Completed
+
+Created using:
+Python
